@@ -1,3 +1,0 @@
-# appinvertorProject
-
-Лабы по APPINVERTOR
